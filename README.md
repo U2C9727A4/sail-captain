@@ -1,2 +1,2 @@
 # sail-captain
-Holds the code of sail-captain. the part that manages the boats. (Aye aye, captain!)
+A tool to automate installation and removal of boats.
